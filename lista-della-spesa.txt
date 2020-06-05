@@ -1,7 +1,3 @@
-Lista della spesa
--merda
--patate
--medicine
--alcol
--tua madre
--eroina
+#Lista della spesa
+- patete
+- merd
