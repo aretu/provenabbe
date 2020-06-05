@@ -2,4 +2,6 @@
 - patate
 - carote
 - cetriolo
-- statuetta della Madonna incoroneta
+- cipolla
+- coltello Miracle Blade
+- voglia di continuare il tutorial di Git
