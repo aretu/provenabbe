@@ -1,7 +1,4 @@
 #Lista della spesa
-- patate
 - carote
 - cetriolo
 - cipolla
-- coltello Miracle Blade
-- voglia di continuare il tutorial di Git
